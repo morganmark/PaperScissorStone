@@ -1,0 +1,2 @@
+rootProject.name='PaperScissorStone'
+include ':app'
